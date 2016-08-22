@@ -1,0 +1,17 @@
+body{
+	margin:0;
+	}
+
+.yellow, .pink
+{
+	height: 100px;
+	margin:0;
+}
+
+.yellow{
+	background-color: yellow;
+}
+
+.pink{
+	background-color: #D90630;
+}
